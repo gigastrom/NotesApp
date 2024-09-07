@@ -50,3 +50,4 @@ function startServer(port) {
 }
 
 startServer(PORT);
+module.exports = app;
